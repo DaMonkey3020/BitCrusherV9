@@ -1,0 +1,47 @@
+2025-09-28 20:07:40 | INFO     | BitCrusher | ======== BitCrusher start ========
+2025-09-28 20:07:40 | INFO     | BitCrusher | Python: 3.13.3 (tags/v3.13.3:6280bb5, Apr  8 2025, 14:47:33) [MSC v.1943 64 bit (AMD64)]
+2025-09-28 20:07:41 | INFO     | BitCrusher | Platform: Windows 11 (AMD64)
+2025-09-28 20:07:41 | INFO     | BitCrusher | Executable: C:\Users\damon\Downloads\BitcrusherV9\BitCrusherV9_Portable\python\python.exe
+2025-09-28 20:07:41 | INFO     | BitCrusher | CWD: C:\Users\damon\Downloads\BitcrusherV9\BitCrusherV9_Portable\app
+2025-09-28 20:07:41 | INFO     | BitCrusher | HandBrakeCLI: [20:07:41] Compile-time hardening features are enabled
+2025-09-28 20:07:41 | INFO     | BitCrusher | ffmpeg: ffmpeg version 7.1.1-essentials_build-www.gyan.dev Copyright (c) 2000-2025 the FFmpeg developers
+2025-09-28 20:07:41 | INFO     | BitCrusher | ffprobe: Simple multimedia streams analyzer
+2025-09-28 20:07:41 | INFO     | BitCrusher | Tool paths — HandBrakeCLI=C:\Users\damon\Downloads\BitcrusherV9\BitCrusherV9_Portable\app\tools\HandBrakeCLI.exe | ffmpeg=ffmpeg.exe | ffprobe=ffprobe.exe
+2025-09-28 20:07:42 | INFO     | BitCrusher | Running Good!
+2025-09-28 20:07:42 | WARNING  | BitCrusher | File migth have some issues
+2025-09-28 20:07:42 | ERROR    | BitCrusher | Compression failed
+2025-09-28 20:07:42 | CRITICAL | BitCrusher | Programm migth crash
+2025-09-28 20:07:42 | ERROR    | BitCrusher | Exception caught during extraction.
+NoneType: None
+2025-09-28 20:08:36 | INFO     | BitCrusher | ======== BitCrusher start ========
+2025-09-28 20:08:36 | INFO     | BitCrusher | Python: 3.13.3 (tags/v3.13.3:6280bb5, Apr  8 2025, 14:47:33) [MSC v.1943 64 bit (AMD64)]
+2025-09-28 20:08:36 | INFO     | BitCrusher | Platform: Windows 11 (AMD64)
+2025-09-28 20:08:36 | INFO     | BitCrusher | Executable: C:\Users\damon\Downloads\BitcrusherV9\BitCrusherV9_Portable\python\python.exe
+2025-09-28 20:08:36 | INFO     | BitCrusher | CWD: C:\Users\damon\Downloads\BitcrusherV9\BitCrusherV9_Portable\app
+2025-09-28 20:08:37 | INFO     | BitCrusher | HandBrakeCLI: [20:08:36] Compile-time hardening features are enabled
+2025-09-28 20:08:37 | INFO     | BitCrusher | ffmpeg: ffmpeg version 7.1.1-essentials_build-www.gyan.dev Copyright (c) 2000-2025 the FFmpeg developers
+2025-09-28 20:08:37 | INFO     | BitCrusher | ffprobe: Simple multimedia streams analyzer
+2025-09-28 20:08:37 | INFO     | BitCrusher | Tool paths — HandBrakeCLI=C:\Users\damon\Downloads\BitcrusherV9\BitCrusherV9_Portable\app\tools\HandBrakeCLI.exe | ffmpeg=ffmpeg.exe | ffprobe=ffprobe.exe
+2025-09-28 20:08:37 | INFO     | BitCrusher | Running Good!
+2025-09-28 20:08:37 | WARNING  | BitCrusher | File migth have some issues
+2025-09-28 20:08:37 | ERROR    | BitCrusher | Compression failed
+2025-09-28 20:08:37 | CRITICAL | BitCrusher | Programm migth crash
+2025-09-28 20:08:37 | ERROR    | BitCrusher | Exception caught during extraction.
+NoneType: None
+2025-09-28 20:08:56 | INFO     | BitCrusher | Settings saved → C:\Users\damon\Downloads\BitcrusherV9\BitCrusherV9_Portable\app\user_settings\settings.json
+2025-09-28 20:09:47 | INFO     | BitCrusher | ======== BitCrusher start ========
+2025-09-28 20:09:47 | INFO     | BitCrusher | Python: 3.13.3 (tags/v3.13.3:6280bb5, Apr  8 2025, 14:47:33) [MSC v.1943 64 bit (AMD64)]
+2025-09-28 20:09:47 | INFO     | BitCrusher | Platform: Windows 11 (AMD64)
+2025-09-28 20:09:47 | INFO     | BitCrusher | Executable: C:\Users\damon\Downloads\BitCrusherV9_Portable\python\python.exe
+2025-09-28 20:09:47 | INFO     | BitCrusher | CWD: C:\Users\damon\Downloads\BitCrusherV9_Portable\app
+2025-09-28 20:09:47 | INFO     | BitCrusher | HandBrakeCLI: [20:09:47] Compile-time hardening features are enabled
+2025-09-28 20:09:47 | INFO     | BitCrusher | ffmpeg: ffmpeg version 7.1.1-essentials_build-www.gyan.dev Copyright (c) 2000-2025 the FFmpeg developers
+2025-09-28 20:09:47 | INFO     | BitCrusher | ffprobe: Simple multimedia streams analyzer
+2025-09-28 20:09:48 | INFO     | BitCrusher | Tool paths — HandBrakeCLI=C:\Users\damon\Downloads\BitCrusherV9_Portable\app\tools\HandBrakeCLI.exe | ffmpeg=ffmpeg.exe | ffprobe=ffprobe.exe
+2025-09-28 20:09:48 | INFO     | BitCrusher | Running Good!
+2025-09-28 20:09:48 | WARNING  | BitCrusher | File migth have some issues
+2025-09-28 20:09:48 | ERROR    | BitCrusher | Compression failed
+2025-09-28 20:09:48 | CRITICAL | BitCrusher | Programm migth crash
+2025-09-28 20:09:48 | ERROR    | BitCrusher | Exception caught during extraction.
+NoneType: None
+2025-09-28 20:09:50 | INFO     | BitCrusher | Settings saved → C:\Users\damon\Downloads\BitCrusherV9_Portable\app\user_settings\settings.json

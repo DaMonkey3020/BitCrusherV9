@@ -1,0 +1,10 @@
+# core runtime
+Pillow>=10.0
+win10toast>=0.9
+deep-translator>=1.11.4
+
+# optional but used by helpers
+colorama>=0.4.6
+
+# packaging/runtime friendliness
+importlib-metadata; python_version<"3.10"

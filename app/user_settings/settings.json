@@ -1,0 +1,33 @@
+{
+  "theme": "Custom Live",
+  "ui_theme": "Custom Live",
+  "output_dir": "C:\\Users\\damon\\Downloads\\testing grounds",
+  "watch_folder": "",
+  "enable_watch": false,
+  "preset": "Custom (use size below)",
+  "target_size": 10,
+  "webhook_url": "",
+  "use_webhook": 0,
+  "advanced": {
+    "auto_retry": true,
+    "two_pass_fallback": true,
+    "grain_filter": true,
+    "encoder": "x265",
+    "iterative": false,
+    "two_pass": false,
+    "manual_crf": "",
+    "manual_bitrate": "",
+    "output_prefix": "",
+    "output_suffix": "_discord_ready",
+    "audio_format": "opus",
+    "image_format": "jpg",
+    "concurrent": false,
+    "auto_output_folder": false,
+    "guetzli": false,
+    "pngopt": false,
+    "auto_jpeg": false
+  },
+  "profiles": {},
+  "language": "en",
+  "size_unit": "MB"
+}
