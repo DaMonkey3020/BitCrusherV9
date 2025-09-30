@@ -20,7 +20,7 @@ In case you notice bugs, make an Issue here or ping me. Logs are automatically g
 If I didn't mess things up (fingers crossed), you just:
 
 1. **Download and unzip** the release `.zip`.
-2. **Double-click** `Run_BitCrusher.cmd`.
+2. **Double-click** `Run_Bitcrusher_s.cmd`.
 
 That's it.
 No `pip install`, no subtle setup wizard, no dependency chase manually.
